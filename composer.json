@@ -19,7 +19,6 @@
         "laravel/framework": "5.8.*",
         "laravel/tinker": "^1.0",
         "laravel/nova": "~2.0",
-        "spatie/laravel-permission": "^2.37",
         "spatie/laravel-query-builder": "^1.17"
     },
     "require-dev": {
